@@ -5,4 +5,6 @@ void greeting(){
 }
 int main(){
     greeting();//function call
+
+    
 }
