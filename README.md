@@ -4,7 +4,7 @@
      <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source" />
      <br/>
      <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=darkgreen" alt="Contributions Welcome" />
-     <img src="https://img.shields.io/badge/Built%20by-Abhinav%20Kumar-0059b3" alt="Built by Abhinav Kumar" />
+     <img src="https://img.shields.io/badge/Built%20by-Abhinav%20Kumar-0059b3" alt="Built by Rix7kz" />
      <img src="https://img.shields.io/static/v1.svg?label=Maintained&message=Yes&color=red" alt="Maintained" />
      <br/>
      <img src="https://img.shields.io/github/license/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0" alt="License" />
