@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-     <img src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0/main" alt="Commit Activity" />
-     <img src="https://img.shields.io/github/repo-size/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0?color=orange" alt="Repo Size" />
-     <img src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0" alt="Code Size" />
+     <img src="https://img.shields.io/github/commit-activity/t/rix7kz/c--dsa/main" alt="Commit Activity" />
+     <img src="https://img.shields.io/github/repo-size/rix7kz/c--dsa?color=orange" alt="Repo Size" />
+     <img src="https://img.shields.io/github/languages/code-size/rix7kz/c--dsa" alt="Code Size" />
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0?style=flat&color=orange">
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0">
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0?style=flat">
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rix7kz/c--dsa?style=flat&color=orange">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rix7kz/c--dsa">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rix7kz/c--dsa?style=flat">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/rix7kz/c--dsa?style=flat&color=orange">
      <br/>
-     <img src="https://img.shields.io/github/v/release/abhinavkumar2369/Pw-Skills-Decode-DSA-with-cpp-2.0" alt="Latest Release" />
+     <img src="https://img.shields.io/github/v/release/rix7kz/c--dsa" alt="Latest Release" />
 </p>
 
 
