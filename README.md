@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-     <img src="https://img.shields.io/github/commit-activity/t/rix7kz/c--dsa/main" alt="Commit Activity" />
-     <img src="https://img.shields.io/github/repo-size/rix7kz/c--dsa?color=orange" alt="Repo Size" />
-     <img src="https://img.shields.io/github/languages/code-size/rix7kz/c--dsa" alt="Code Size" />
+     <img src="https://img.shields.io/github/commit-activity/t/rix7kz/c---dsa/main" alt="Commit Activity" />
+     <img src="https://img.shields.io/github/repo-size/rix7kz/c---dsa?color=orange" alt="Repo Size" />
+     <img src="https://img.shields.io/github/languages/code-size/rix7kz/c---dsa" alt="Code Size" />
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rix7kz/c--dsa?style=flat&color=orange">
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rix7kz/c--dsa">
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rix7kz/c--dsa?style=flat">
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/rix7kz/c--dsa?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rix7kz/c---dsa?style=flat&color=orange">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rix7kz/c---dsa">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rix7kz/c---dsa?style=flat">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/rix7kz/c---dsa?style=flat&color=orange">
      <br/>
-     <img src="https://img.shields.io/github/v/release/rix7kz/c--dsa" alt="Latest Release" />
+     <img src="https://img.shields.io/github/v/release/rix7kz/c---dsa" alt="Latest Release" />
 </p>
 
 
