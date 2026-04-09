@@ -12,13 +12,14 @@ using namespace std;
 int main(){
     string s;
     cin>>s;
-    reverse(s.begin(),s.end());
-    vector<string>v;
-    v.push_back(s);
-    for (int i=0;i<v.size();i++){
-        if(v[i]!=v[i+1])
-        cout<<v[i];
-        break;
+    sort(s.begin(),s.end());
+    int n=s.size();
+    int max=n-1;
+    for(int i=n-1;n>=0;i--){
+        if (s[i]!=max){
+            cout<<s[i];
+            break;
+        }
     }
     
 }
