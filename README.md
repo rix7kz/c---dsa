@@ -26,6 +26,5 @@
 
 ## ✨ Overview
 
-- This repository contains the **Assignment Questions** and their **solutions** from the **PW Skills - Decode DSA with C++ 2.0** course.
-- It is used for submission of the assignments for the **partial fulfillment of the course certification**.
-- Whether you're revising concepts or practicing problems, this repo is structured to help you efficiently navigate each topic.
+- This repository contains the all the codes which i have durting my DSA learning from the **PW Skills - Decode DSA with C++ 2.0** course.
+
