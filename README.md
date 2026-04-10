@@ -26,5 +26,5 @@
 
 ## ✨ Overview
 
-- This repository contains the all the codes which i have durting my DSA learning from the **PW Skills - Decode DSA with C++ 2.0** course.
+- This repository contains the all the codes which i have done during my DSA learning from the **PW Skills - Decode DSA with C++ 2.0** course.
 
