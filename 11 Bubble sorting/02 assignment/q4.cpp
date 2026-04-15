@@ -18,6 +18,8 @@ int main(){
 
 
         }
+
+        
     }
 //print the sorted array in non increasing order
     cout << "Sorted array: ";
