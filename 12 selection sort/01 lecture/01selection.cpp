@@ -8,7 +8,7 @@ int main(){
         cout<<ele<<" ";
     }
     cout<<endl;
-    //selection sort
+    //selection sorting
     for (int i=0;i<n-1;i++){
         int max= INT_MAX;
         int minx=-1;
