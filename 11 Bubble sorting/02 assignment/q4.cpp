@@ -15,6 +15,8 @@ int main(){
                 // arr[j+1] = temp;
                 swap(arr[j], arr[j+1]); //swapping the elements using swap function
             }
+
+
         }
     }
 //print the sorted array in non increasing order
