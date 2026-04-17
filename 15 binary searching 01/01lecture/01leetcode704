@@ -1,0 +1,3 @@
+//on leetcode
+int ( high + low)/ 2 instead of this we will use ;
+int = low + ( hjgh - low )/2 this will be in the range of INT_MAX
