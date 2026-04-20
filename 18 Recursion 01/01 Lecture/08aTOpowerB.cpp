@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
-int fact(int n){
+int fact(int a,int b){
     // base case
-    if (n==1 || n==0){
+    if (b==0){
         return 1;
     }
     // recursive function
-    else return n*fact(n-1);
+    return a*fact(a,b-1);
 }
 int main(){
-    cout<<fact(0);
+    cout<<fact(3,4);
 }
