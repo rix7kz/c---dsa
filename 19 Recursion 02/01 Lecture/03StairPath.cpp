@@ -1,6 +1,8 @@
+
+
 #include<iostream>
 using namespace std;
-int stair(int n){
+int stair(int n){ 
     // base case
     if(n==1) return 1;
     if(n==2) return 2;
