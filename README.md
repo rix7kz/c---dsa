@@ -1,4 +1,4 @@
-<h1 align="center">Pw Skills Decode DSA with C++ 2.0</h2>
+<h1 align="center">Pw Skills Decode DSA with C++ </h2>
 
 <p align="center">
      <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source" />
